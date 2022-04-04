@@ -3,7 +3,7 @@ Gear Indicator for Kawasaki and Suzuki bikes using communication with ECU over I
 
 This project I implemented couple of years ago. We bought Kawasaki Z750 that time and needed to have gear indication
 which apparently Kawasaki didn't have installed. About 30 of these were installed on different Kawasaki an Suzuki bikes
-in next years. Just dont want to throw it away and forget. Maybe it will be useful for somebody also these days.
+in following years. Just dont want this project to throw away and forget. Maybe someone will like it.
 
 ## Project structure
 Project has hardware and software part. Content of directories as described below.
