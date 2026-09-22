@@ -1,0 +1,12 @@
+HONDA CT - DLC PINOUT (female)
+ ---------
+|  1 | 2  |-
+|            | tab
+|  3 | 4  |-
+ ---------
+
+1-Brown > SCS (can jumper to Ground to obtain error codes(not tested))
+2-Green > Ground (0V)
+3-Black/white > Batt (+12V)
+4-Orange/White > K-line
+
